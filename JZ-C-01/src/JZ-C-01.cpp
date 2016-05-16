@@ -1,6 +1,6 @@
 //============================================================================
-// Name        : C++inEclipse.cpp
-// Author      : Laughing
+// Name        : JZ-C-01.cpp
+// Author      : Laughing_Lz
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
